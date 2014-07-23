@@ -1,0 +1,63 @@
+/*set default values for the body tag*/
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    color: #575757;
+    background-color: #e8e8e8;
+}
+
+div {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.77);
+}
+
+.div1, .div6{
+    background-color: #2CB1E1;
+    color: #fff;
+    padding: 1.2em;
+    text-align: center;
+    font-size: 1.2em;
+    cursor: pointer;
+}
+
+.div2, .div7{
+    background-color: #BA75DC;
+    color: #fff;
+    padding: 1.2em;
+    text-align: center;
+    font-size: 1.2em;
+    cursor: pointer;
+}
+
+.div3, .div8{
+    background-color: #92C500;
+    color: #fff;
+    padding: 1.2em;
+    text-align: center;
+    font-size: 1.2em;
+    cursor: pointer;
+}
+
+.div4, .div9{
+    background-color: #FFAE18;
+    color: #fff;
+    padding: 1.2em;
+    text-align: center;
+    font-size: 1.2em;
+    cursor: pointer;
+}
+
+.div5, .div10{
+    background-color: #E92727;
+    color: #fff;
+    padding: 1.2em;
+    text-align: center;
+    font-size: 1.2em;
+    cursor: pointer;
+}
+
+/*put the icons on the left corner of the page*/
+img {
+    float: left;
+    position: relative;
+}
